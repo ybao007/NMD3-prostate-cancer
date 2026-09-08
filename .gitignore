@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# R / RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R temporary / cache files
+.Rcache/
+*.Rproj.user
+
+# Input datasets
+# Public and in-house datasets are obtained from the repositories/accessions
+# documented in README.md and are not stored in this GitHub repository.
+data/
+
+# Analysis outputs
+results/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
